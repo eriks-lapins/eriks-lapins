@@ -21,6 +21,17 @@ job: pm me your offer, Currently CODELEX. They know about it.
 education: ["Bachelor's in business"]
 
 "\n"
+Some in the past:
+
+Minesweeper:
+You know what I mean. But I did it. In Javascript.
+
+Snake: 
+Also, the very classic. Eating apples, growing in size and levels with changing speed and difficulty (added colours that become more similar to apple colours).
+
+A collection of smaller projects: animal zoo - feed them, based on their parent and child classes and what food they eat, tourism planner/city viewer using Foursquare API to get top-5 random location descriptions and images, based on input city, classic tic-tac-toe and some more!
+
+"\n"
 
 technical_interests: ["Structure", "Machine Learning", "Logic", "Definitions", "Databases", "Programming as art"]
 
