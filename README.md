@@ -21,7 +21,7 @@ job: pm me your offer, Currently CODELEX. They know about it.
 education: ["Bachelor's in business"]
 
 "\n"
-Some in the past:
+Some projects that I did:
 
 Minesweeper:
 You know what I mean. But I did it. In Javascript.
@@ -31,13 +31,16 @@ Also, the very classic. Eating apples, growing in size and levels with changing 
 
 A collection of smaller projects: animal zoo - feed them, based on their parent and child classes and what food they eat, tourism planner/city viewer using Foursquare API to get top-5 random location descriptions and images, based on input city, classic tic-tac-toe and some more!
 
+Flight-planner:
+Lots of asynchronous code. Currently did the back-end for flight adding, deleting, searching and responses.
+
 "\n"
 
 technical_interests: ["Structure", "Machine Learning", "Logic", "Definitions", "Databases", "Programming as art"]
 
 "\n"
 
-currently_learning: ["SQL, TDD"]
+currently_learning: ["SQL, TDD, C#, JS"]
 
 "\n"
 
