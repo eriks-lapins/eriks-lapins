@@ -35,7 +35,7 @@ Flight-planner:
 Lots of asynchronous code. Currently did the back-end for flight adding, deleting, searching and responses.
 
 Work related:
-Confidential :)
+Just think how modern insurance works, otherwise confidential :)
 
 "\n"
 
@@ -47,7 +47,7 @@ currently_learning: ["Design Patterns", "Microservices Architecture and Implemen
 
 "\n"
 
-hobbies: ["Computer games", "Psychology", "Debates", "Learning", "Anything fun and useless", "Healthy lifestyle"]
+hobbies: ["Computer games", "Psychology", "Debates", "Learning", "Anything Fun and Useless", "Healthy lifestyle and resource optimization", "Personal Finance"]
 
 "\n"
 
