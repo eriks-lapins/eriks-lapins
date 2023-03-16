@@ -6,7 +6,7 @@ name: Eriks Lapins
 
 "\n"
 
-located_in: Riga, Latvia
+located_in: Lielvārde, Latvia
 
 "\n"
 
