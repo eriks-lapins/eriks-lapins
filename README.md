@@ -14,7 +14,7 @@ company: ERGO Life Insurance SE Latvia branch
 
 "\n"
 
-job: Software developer
+job: Software developer. Mostly I work remotely, but you can find me in the office on some days.
 
 "\n"
 
