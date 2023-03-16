@@ -10,11 +10,11 @@ located_in: Riga, Latvia
 
 "\n"
 
-company: CODELEX
+company: ERGO Life Insurance SE Latvia branch
 
 "\n"
 
-job: pm me your offer, Currently CODELEX. They know about it.
+job: Software developer
 
 "\n"
 
@@ -34,17 +34,20 @@ A collection of smaller projects: animal zoo - feed them, based on their parent 
 Flight-planner:
 Lots of asynchronous code. Currently did the back-end for flight adding, deleting, searching and responses.
 
+Work related:
+Confidential :)
+
 "\n"
 
 technical_interests: ["Structure", "Machine Learning", "Logic", "Definitions", "Databases", "Programming as art"]
 
 "\n"
 
-currently_learning: ["SQL, TDD, C#, JS"]
+currently_learning: ["Design patterns", "microservices architecture", "high performance coding", "entity framework core", "async and paralellism"]
 
 "\n"
 
-hobbies: ["Computer games", "Psychology", "Debates", "Learning", "Anything fun and useless"]
+hobbies: ["Computer games", "Psychology", "Debates", "Learning", "Anything fun and useless", "Healthy lifestyle"]
 
 "\n"
 
