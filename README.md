@@ -39,11 +39,11 @@ Confidential :)
 
 "\n"
 
-technical_interests: ["Structure", "Machine Learning", "Logic", "Definitions", "Databases", "Programming as art"]
+technical_interests: ["Structure", "Machine Learning", "Logic", "Databases", "Programming as art", "C#", ".NET"]
 
 "\n"
 
-currently_learning: ["Design patterns", "microservices architecture", "high performance coding", "entity framework core", "async and paralellism"]
+currently_learning: ["Design Patterns", "Microservices Architecture and Implementation", "High Performance Coding", "Entity Framework Core", "Async and Paralellism"]
 
 "\n"
 
